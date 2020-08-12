@@ -1,4 +1,17 @@
-### Hi there 👋
+# ```print("Olá pessoas")``` 👋
+Sou o Geandreson Costa, mas podem me chamar só de Gean - mais fácil e econimiza sílabas.
+
+Atualmente sou aluno do último período de Engenharia da Computação na Universidade Federal do Pará (UFPA) e faço parte também do Laboratório de Inteligência Computacional (LINC).
+
+💻 Minhas linguagens de programação favoritas são:
+
+* Python
+* R
+* Julia
+
+Meus principais temas de interesse são:
+
+* Mineração e análise de dados, principalmente de redes sociais (ex: twitter)
 
 <!--
 **gean-costa/gean-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
