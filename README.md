@@ -12,6 +12,7 @@ Atualmente sou aluno do último período de Engenharia da Computação na Univer
 Meus principais temas de interesse são:
 
 * Mineração e análise de dados, principalmente de redes sociais (ex: twitter)
+* Projetos web e/ou APIs usando Python (Flask, FastAPI)
 
 <!--
 **gean-costa/gean-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
