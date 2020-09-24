@@ -1,4 +1,6 @@
 # ```print("Olá pessoas")``` 👋
+![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fgean_dreson)
+
 Sou o Geandreson Costa, mas podem me chamar só de Gean - mais fácil e econimiza sílabas.
 
 Atualmente sou aluno do último período de Engenharia da Computação na Universidade Federal do Pará (UFPA) e faço parte também do Laboratório de Inteligência Computacional (LINC).
