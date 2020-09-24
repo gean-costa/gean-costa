@@ -1,5 +1,5 @@
 # ```print("Olá pessoas")``` 👋
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fgean_dreson">
+![Twitter Follow](https://img.shields.io/twitter/follow/gean_dreson?color=%231DA1F2&label=follow%20%40gean_dreson&logo=twitter&logoColor=white&style=for-the-badge)
 
 Sou o Geandreson Costa, mas podem me chamar só de Gean - mais fácil e econimiza sílabas.
 
