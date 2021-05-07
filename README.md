@@ -1,6 +1,9 @@
 # ```print("Olá pessoas")``` 👋
 
+[![Linkedin URL](https://img.shields.io/badge/Linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geandreson-costa/)
 [![Twitter URL](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gean_dreson)
+
+
 
 Sou o Geandreson Costa, mas podem me chamar só de Gean - mais fácil e econimiza sílabas.
 
